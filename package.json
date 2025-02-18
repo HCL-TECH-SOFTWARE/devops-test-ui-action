@@ -20,7 +20,7 @@
   "homepage": "https://github.com/HCL-TECH-SOFTWARE/devops-test-ui-action/blob/main/README.md",
   "dependencies": {
     "@actions/core": "^1.10.1",
-    "@actions/github": "^5.1.1",
+    "@actions/github": "^6.0.0",
     "path": "^0.12.7"
   },
   "devDependencies": {
